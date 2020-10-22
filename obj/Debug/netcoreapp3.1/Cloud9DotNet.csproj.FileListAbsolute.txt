@@ -1,0 +1,13 @@
+/home/ubuntu/environment/Cloud9DotNet/bin/Debug/netcoreapp3.1/Cloud9DotNet
+/home/ubuntu/environment/Cloud9DotNet/bin/Debug/netcoreapp3.1/Cloud9DotNet.deps.json
+/home/ubuntu/environment/Cloud9DotNet/bin/Debug/netcoreapp3.1/Cloud9DotNet.runtimeconfig.json
+/home/ubuntu/environment/Cloud9DotNet/bin/Debug/netcoreapp3.1/Cloud9DotNet.runtimeconfig.dev.json
+/home/ubuntu/environment/Cloud9DotNet/bin/Debug/netcoreapp3.1/Cloud9DotNet.dll
+/home/ubuntu/environment/Cloud9DotNet/bin/Debug/netcoreapp3.1/Cloud9DotNet.pdb
+/home/ubuntu/environment/Cloud9DotNet/obj/Debug/netcoreapp3.1/Cloud9DotNet.csprojAssemblyReference.cache
+/home/ubuntu/environment/Cloud9DotNet/obj/Debug/netcoreapp3.1/Cloud9DotNet.AssemblyInfoInputs.cache
+/home/ubuntu/environment/Cloud9DotNet/obj/Debug/netcoreapp3.1/Cloud9DotNet.AssemblyInfo.cs
+/home/ubuntu/environment/Cloud9DotNet/obj/Debug/netcoreapp3.1/Cloud9DotNet.csproj.CoreCompileInputs.cache
+/home/ubuntu/environment/Cloud9DotNet/obj/Debug/netcoreapp3.1/Cloud9DotNet.dll
+/home/ubuntu/environment/Cloud9DotNet/obj/Debug/netcoreapp3.1/Cloud9DotNet.pdb
+/home/ubuntu/environment/Cloud9DotNet/obj/Debug/netcoreapp3.1/Cloud9DotNet.genruntimeconfig.cache
